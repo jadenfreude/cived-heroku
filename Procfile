@@ -1,2 +1,2 @@
-release: chmod 755 deploy.sh
+worker: chmod 755 deploy.sh
 web: ./deploy.sh
